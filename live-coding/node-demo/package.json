@@ -1,0 +1,15 @@
+{
+  "name": "node-demo",
+  "version": "1.0.0",
+  "description": "some short node demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jakob Rolandsson",
+  "license": "MIT",
+  "dependencies": {
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1"
+  }
+}

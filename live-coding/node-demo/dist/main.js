@@ -1,0 +1,1 @@
+(()=>{"use strict";function t(t){return Math.floor(Math.random()*t)+1}let r=new class{constructor(t){this.size=t}throw(r){if(null==r||1==r)return t(this.size);let s=[];for(let e=0;e<r;e++)s.push(t(this.size));return s}}(7);console.log(r.throw(10))})();
