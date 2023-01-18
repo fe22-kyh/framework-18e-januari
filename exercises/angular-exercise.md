@@ -1,0 +1,2 @@
+# Angular Tutorial
+Även Angular har en tutorial som vi kommer att använda https://angular.io/tutorial/tour-of-heroes. Däremot så är Angular lite mer än endast ett javascript bibliotek och därför faller lite utanför kursen. Ni uppmanas till att prova på ramverket i tutorial:en men förväntas inte bli helt klara och förstå samtliga delar.
